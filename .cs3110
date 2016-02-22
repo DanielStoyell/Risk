@@ -1,0 +1,2 @@
+compile.opam_packages=core, jingoo
+compile.thread=true
